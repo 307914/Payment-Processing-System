@@ -1,0 +1,5 @@
+com/notifications/service/NotificationService.class
+com/notifications/config/KafkaConsumerConfig.class
+com/notifications/consumer/TransactionEventConsumer.class
+com/notifications/NotificationApplication.class
+com/notifications/dto/TransactionEvent.class
